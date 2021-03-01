@@ -1,5 +1,4 @@
-
-Date/Time,DTmode,Record Type,Profile Index,0144341825 - Volts A-N,0144341825 - Amps A,"0144341825 - Watts, Phase A","0144341825 - VARs, Phase A","0144341825 - VAs, Phase A","0144341825 - W-hours in the Interval, Received, Phase A","0144341825 - W-hours in the Interval, Delivered, Phase A"
+Date/Time,DTmode,Record Type,Profile Index,0144341825 - Volts A-N,0144341825 - Amps A,"0144341825 - Watts, Phase A","0144341825 - VARs, 
 23/05/2020 10:40:00.000,-1,Log 1,1,"215,5857544","0,855279088","168,5734253","71,38916016","183,066864",,
 23/05/2020 11:50:00.000,-1,Log 1,1,"214,1526947","0,2787846625","48,33221817","-33,26049805","58,67068481",,
 23/05/2020 12:00:00.000,-1,Log 1,1,"216,1442871","0,8180711269","169,2002563","51,67236328","176,9147644",,
